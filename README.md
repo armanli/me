@@ -10,10 +10,7 @@ Bem-vindo ao meu portfólio pessoal! Este é o meu espaço onde compartilho meu 
 
 ### Projetos
 
-1. **My Manga**
-   - (Em Andamento)
-
-2. **KanBan**
+1. **Monitor Manhwa**
    - (Em Andamento)
 
 3. **Bretas Construcoes e Reformas**
